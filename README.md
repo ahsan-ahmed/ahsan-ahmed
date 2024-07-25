@@ -1,10 +1,10 @@
 # Hello there 👋, I'm Ahsan Ahmed
 
-### Software/Cloud Engineer
+### Full Stack Developer | ReactJS | NextJS | Node | React Native | TypeScript | AWS
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
-- :seedling: Exploring Cloud and Blockchain.
+- :seedling: Exploring Cloud, Blockchain.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
@@ -22,5 +22,3 @@ NextJs Gatsby  Tailwind CSS CSS3 Sass Material UI Redux JavaScript TypeScript Py
 - 💬 Ask me about __Software Engineering, Cloud Engineering (AWS), CI/CD, Docker, Product Development Lifecycle...__
 - 🌏 Urdu name: __حسن رضا__
 - 😄 Pronouns: He. Him. His. -->
-
-<br/>
