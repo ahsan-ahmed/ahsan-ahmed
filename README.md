@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 💬 Ask me about Software Engineering, Cloud Engineering (AWS), CI/CD, Docker, Product Development Lifecycle...
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ahsan-ahmed01)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ahsan-ahmed-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ahsan-ahmed01)
 
 - 🌏 Urdu name: احسن احمد
 
