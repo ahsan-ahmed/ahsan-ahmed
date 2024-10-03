@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Ahsan Ahmed
 
-### Full Stack Developer | ReactJS | NextJS | Node | React Native | TypeScript | AWS
+### Full Stack Developer | React Native | .NET | NextJS | ReactJS | NestJS | TypeScript | Django
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
